@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Main readme workflow
 
 on:
   schedule:
@@ -18,4 +18,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://zhenye-na.github.io/blog/feed.xml"
+          feed_list: "https://mikehsin.github.io/"
