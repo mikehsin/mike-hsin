@@ -35,6 +35,11 @@ me.say_hi()
 ![PHP](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
 ![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=mikehsin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mikehsin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikehsin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mikehsin&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
