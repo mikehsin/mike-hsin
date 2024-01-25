@@ -24,8 +24,8 @@ me.say_hi()
 
 ## 📝 Info
 
-- Personal website: https://mikehsin.github.io/
-- Mike Hsin's LinkedIn: https://www.linkedin.com/in/mike-hsin/
+- [Personal website](https://mikehsin.com/)
+- [Mike Hsin's LinkedIn](https://www.linkedin.com/in/mike-hsin/)
 
 ## 🔧 Skills & Tools
 
